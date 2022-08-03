@@ -11,7 +11,7 @@ public class Main {
 		//Scanner sc=new Scanner(System.in);
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-		//프린트보다 빨라서 넣었다. 최대 속도를 위해
+		//프린트보다 빨라서 넣었다. 최대 속도를 위해서
 		
 		String all=br.readLine();
 		LinkedList<Character> b=new LinkedList<>();
